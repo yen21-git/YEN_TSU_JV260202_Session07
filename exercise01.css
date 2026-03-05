@@ -1,0 +1,16 @@
+flex-container {
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+   
+    
+}
+.flex-item {
+    width: 100px;
+    height: 100px;
+    background-color:blue; /* Light background for visibility */
+    color: white;
+    text-align: center;
+    line-height: 100px; /* Vertically center the text */
+}
